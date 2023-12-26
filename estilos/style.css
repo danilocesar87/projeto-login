@@ -4,3 +4,56 @@
   verde= 49a09d
   lilas= 5f2c82
   */
+body {
+    background-color: brown;
+}
+  div#email {
+    background-color: purple ;
+    border-radius: 5px;
+    width: 200px;
+    margin: 2px;
+  }
+  input {
+    background-color: greenyellow;
+    margin: 10px;
+    border-radius: 5px;
+    height: 30px;
+  }
+
+  img {
+    width: 300px;
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  section {
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 80px;
+
+  }
+
+  #entra > input {
+    background-color: rgb(14, 253, 173);
+    width: 170px;
+    text-align: center;
+    color: white;
+    
+  }
+
+  #esqueci > input {
+    background-color: white;
+    color: green;
+    border: 1px solid green;
+    text-align: center;
+    width: 170px;
+
+  }
+
+  h1,p {
+    text-align: center;
+  }
+
+
+ 
