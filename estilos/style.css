@@ -37,6 +37,9 @@
     overflow: hidden; /*esconde a div*/
     box-shadow: 0px 0px 10px black;
 
+    transition: width 1s, height 1s; /*animação */
+    transition-timing-function: ease; /*outra animação*/
+
 
   }
 
