@@ -45,7 +45,7 @@ Grandes Telas: acima de 1200px
     }
 
     section#login > div#imagem {
-        float: left; /*float faz com que as divs fiquem lado a lado */
+        float: right; /*float faz com que as divs fiquem lado a lado */
         width: 50%;
         height: 100%;
        
@@ -54,8 +54,17 @@ Grandes Telas: acima de 1200px
       }
 
       section#login > div#formulario {
-        float: right;
+        float: left;
         width: 50%;
+      }
+
+      div#formulario > h1 {
+      font-size: 2em;
+    
+      }
+    
+      div#formulario > p {
+        font-size: 1.2em;
       }
 
 }

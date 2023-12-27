@@ -58,6 +58,16 @@
     padding: 10px;
 
   }
+
+  div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 2px;
+
+  }
+
+  div#formulario > p {
+    font-size: 0.8em;
+  }
 /* meu estilo
 body {
     background-color: brown;
